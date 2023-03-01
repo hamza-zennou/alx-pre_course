@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-ALX School is so cool!
-=======
 #!/bin/bash
-echo "ALX" 
-"ALX"
-echo "ALX School" 
->>>>>>> update_script
+echo "ALX S:chool" 
